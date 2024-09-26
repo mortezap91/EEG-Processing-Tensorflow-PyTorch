@@ -11,7 +11,7 @@ Includes data preparation, model creation, and evaluation.
 
 Useful for time-series analysis and modeling with TensorFlow.
 
-2.EEG CycleGAN with PyTorch
+2. EEG CycleGAN with PyTorch
 
 Implements a CycleGAN architecture for EEG data using PyTorch.
 
